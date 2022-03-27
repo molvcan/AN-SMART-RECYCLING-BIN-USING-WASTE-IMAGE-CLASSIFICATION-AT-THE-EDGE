@@ -1,0 +1,2 @@
+# AN-SMART-RECYCLING-BIN-USING-WASTE-IMAGE-CLASSIFICATION-AT-THE-EDGE
+The code used in my 3rd year project.
