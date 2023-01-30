@@ -1,5 +1,4 @@
-# AN SMART RECYCLING BIN USING WASTE IMAGE CLASSIFICATION AT THE EDGE
-
+# A SMART RECYCLING BIN USING WASTE IMAGE CLASSIFICATION AT THE EDGE
 
 
 This repository contains the code used to train the waste image classification model which subsequently runs the inference on a Jetson Nano device
